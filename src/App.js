@@ -755,7 +755,7 @@ export default function App() {
             <div className="bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 p-1.5 rounded-lg">
               <Code2 size={20} />
             </div>
-            <span className="hidden sm:inline">CSJMU</span>
+            <span className="hidden sm:inline">Zera</span>
             <span className="hidden sm:inline font-medium">Coding</span>
           </div>
 
@@ -1008,7 +1008,7 @@ function LoginView({ setUserData, showMessage, setView }) {
                 <Code2 size={32} />
               </div>
               <h1 className="text-4xl font-extrabold text-zinc-900 dark:text-zinc-100 tracking-tight leading-tight mb-4">
-                CSJMU
+                Zera
                 <br />
                 <span className="text-zinc-500 dark:text-zinc-400 font-medium text-2xl md:text-3xl">
                   Coding Competition
